@@ -1,0 +1,209 @@
+{
+  "foundLawyer": true,
+  "firstName": "Yvette",
+  "lastName": "Ostolaza",
+  "fullName": "Yvette Ostolaza",
+  "jobTitle": "Partner",
+  "estimatedAge": 62,
+  "description": "Yvette Ostolaza is Sidley's Management Committee Chair and an Executive Committee member. She is one of the world's foremost business litigators, delivering winning results for clients at each stage of complex multijurisdictional commercial disputes and corporate investigations. She is admitted in New York and Texas and litigates trial and appellate matters in U.S. state and federal courts on behalf of global clients, with significant experience in MDL, crisis management, activist defense, bankruptcy, arbitration, and securities litigation.",
+  "country": "United States",
+  "stateOrProvince": "Texas",
+  "city": "Dallas",
+  "degrees": [
+    {
+      "degreeName": "J.D.",
+      "institution": "University of Miami School of Law",
+      "year": 1992,
+      "majors": [],
+      "minors": [],
+      "honors": "magna cum laude"
+    },
+    {
+      "degreeName": "B.A.",
+      "institution": "University of Miami",
+      "year": 1985,
+      "majors": [],
+      "minors": [],
+      "honors": "with honors"
+    }
+  ],
+  "practiceAreas": [
+    "Commercial Litigation and Disputes",
+    "Crisis Management and Strategic Response",
+    "Energy",
+    "Securities and Shareholder Litigation",
+    "White Collar Defense and Investigations",
+    "Aviation and Airlines",
+    "Hospitality"
+  ],
+  "normalizedPracticeAreas": [
+    "Commercial Litigation",
+    "Crisis Management",
+    "Energy",
+    "Securities Litigation",
+    "White Collar Defense and Investigations",
+    "Aviation",
+    "Hospitality"
+  ],
+  "mattersAndDeals": [
+    "Represented a global provider of transportation solutions in an arbitration dispute against a leading automotive company in connection with a failed joint development agreement.",
+    "Represented an energy company in a high-stakes and confidential natural gas arbitration related to a complex oil and gas pipeline.",
+    "Represents Sally Beauty Supply LLC in a multi-district litigation brought by hundreds of plaintiffs alleging bodily harm caused by extended use of hair relaxer products.",
+    "Leading a multistate team representing Aspen Insurance in COVID-19 business interruption coverage litigation involving over 40 state and federal lawsuits.",
+    "Successfully represented Neiman Marcus Group in a high-profile data privacy and wiretapping class action.",
+    "Led a multipractice team defending SAExploration in civil, criminal, and regulatory complaints and investigations.",
+    "Led a team representing Texas Pacific Land Trust in a high-profile litigation against dissident shareholders in the largest board proxy contest of the 2019 proxy season.",
+    "Represented Forescout Technologies in a successful arbitration resulting in a TRO related to a breach-of-separation agreement.",
+    "Obtained a complete dismissal of a lawsuit on behalf of Apache IS brought by a former employee.",
+    "Represented Forterra, Inc. in the successful resolution of a securities class action ($250M sought, settled for $5.5M).",
+    "Obtained a complete victory in a securities case stemming from an oil spill in California involving a pipeline owned by Plains All American Pipeline.",
+    "Represented the Navigators Group, Inc. in relation to alleged violations of Section 14(a) and 20(a) of the Securities Exchange Act.",
+    "Represented the special committee of Best Buy.",
+    "Special committee of the board of Restoration Hardware in an internal investigation of a whistleblower's allegations concerning the company's former CEO.",
+    "Special committee of the board of Southwest Airlines Co. in an independent investigation into various FAA issues.",
+    "National Public Radio internal review into the firing of Juan Williams.",
+    "Deutsche Bank and Barclays Bank — MGA Entertainment Inc. v. Deutsche Bank AG, et al.",
+    "Zale Corporation — In re Zale Corporation Securities Litig.",
+    "Halliburton Company — state and federal derivative actions involving FCPA issues.",
+    "MasterCard International Incorporated — state court consumer class actions.",
+    "Pilgrim's Pride Corporation — In Re Pilgrim's Pride Corporation."
+  ],
+  "leadershipPositions": [
+    "Sidley Management Committee Chair",
+    "Sidley Executive Committee member",
+    "Board of Directors of Lionsgate Studios Corp.",
+    "Board of Directors of the State Bar of Texas",
+    "CPR Board of Directors",
+    "Vice Chair for the Ethics and Investigations Subcommittee of the ABA Corporate Governance Committee",
+    "Orange Bowl Committee — Vice Chair of legal committee",
+    "Vice Chair of the Orange Bowl Beigel-Feis-Hixon Valor Award Committee",
+    "Chair of the University of Miami School of Law Dean's Advisory Committee",
+    "Adjunct Professor of Law, University of Miami School of Law",
+    "Hispanic Society Museum and Library, Board of Trustees Member",
+    "International Institute for Conflict Resolution and Prevention, Board Member",
+    "Dallas Theater Center, Board Member"
+  ],
+  "awards": [
+    {
+      "title": "Hot 100",
+      "organization": "The Lawyer",
+      "year": 2026
+    },
+    {
+      "title": "Top 20 Law Firm Leaders / Special Recognition for Outstanding Leadership",
+      "organization": "Financial Times",
+      "year": 2025
+    },
+    {
+      "title": "Litigator of the Year",
+      "organization": "Women in Business Law Americas Awards",
+      "year": 2024
+    },
+    {
+      "title": "America's Top 200 Lawyers",
+      "organization": "Forbes",
+      "year": 2024
+    },
+    {
+      "title": "Top 250 Women in Litigation",
+      "organization": "Benchmark Litigation",
+      "year": 2012
+    },
+    {
+      "title": "Band 1 ranking, Litigation: General Commercial (Texas)",
+      "organization": "Chambers USA",
+      "year": null
+    },
+    {
+      "title": "50 Over 50",
+      "organization": "Forbes",
+      "year": 2025
+    },
+    {
+      "title": "Changemakers: Women Transforming Business",
+      "organization": "CNBC",
+      "year": 2024
+    },
+    {
+      "title": "Margaret Brent Women Lawyers of Achievement Award",
+      "organization": "American Bar Association",
+      "year": 2023
+    },
+    {
+      "title": "M. Ashley Dickerson Diversity Award",
+      "organization": "National Association of Women Lawyers",
+      "year": 2023
+    },
+    {
+      "title": "Mari Carmen Aponte Award",
+      "organization": "Hispanic National Bar Association",
+      "year": 2022
+    },
+    {
+      "title": "Firm Leadership Award",
+      "organization": "Hispanic National Bar Foundation",
+      "year": 2022
+    },
+    {
+      "title": "Rainmakers",
+      "organization": "Minority Corporate Counsel Association (MCCA)",
+      "year": 2023
+    },
+    {
+      "title": "Most Powerful Latinas",
+      "organization": "Women of ALPFA",
+      "year": 2023
+    },
+    {
+      "title": "Client Service All-Star",
+      "organization": "BTI Consulting Group",
+      "year": 2022
+    },
+    {
+      "title": "Most Influential Latina",
+      "organization": "Latino Corporate Directors Association",
+      "year": 2021
+    },
+    {
+      "title": "South Trailblazer",
+      "organization": "The American Lawyer",
+      "year": 2021
+    },
+    {
+      "title": "Lifetime Achievement Award",
+      "organization": "Texas Lawyer",
+      "year": 2015
+    },
+    {
+      "title": "Pro Bono Innovator",
+      "organization": "Bloomberg",
+      "year": 2025
+    },
+    {
+      "title": "Pro Bono Award",
+      "organization": "Disability Rights Texas",
+      "year": 2013
+    }
+  ],
+  "barAdmissions": [
+    "New York",
+    "Texas"
+  ],
+  "courts": [
+    "U.S. Court of Appeals, 5th Circuit",
+    "U.S. Court of Appeals, 6th Circuit",
+    "U.S. Court of Appeals, 7th Circuit",
+    "U.S. Court of Appeals, 9th Circuit",
+    "U.S. Court of Appeals, 10th Circuit",
+    "U.S. District Court, District of Colorado",
+    "U.S. District Court, E.D. of Texas",
+    "U.S. District Court, W.D. of Texas",
+    "U.S. District Court, N.D. of Texas",
+    "U.S. District Court, S.D. of Texas"
+  ],
+  "priorExperiences": [],
+  "phoneNumber": "+1 214 981 3401",
+  "email": "yvette.ostolaza@sidley.com",
+  "isPartner": true,
+  "jobType": "Partner"
+}
